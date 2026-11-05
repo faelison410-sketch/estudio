@@ -1,0 +1,37 @@
+{
+  "composition": "PilotoQuadrado15s",
+  "status": "original final render preserved; audit preparation changes documentation only",
+  "artifacts": {
+    "mp4": {
+      "path": "piloto/out/PilotoQuadrado15s.mp4",
+      "bytes": 4138727,
+      "sha256": "5f496e030679d4dc4debce41479d6f5b31bb18e5b392847653afeb8a6a937698"
+    },
+    "contact_sheet": {
+      "path": "piloto/out/review/contact-sheet.jpg",
+      "bytes": 41345,
+      "sha256": "4e24ac2bae8cbb425606e449df183bd2fadf9a95ff5272a708650b5378a02931"
+    },
+    "original_zip": {
+      "path": "deliverables/QuadradoProibido-PoC.zip",
+      "bytes": 16467795,
+      "sha256": "d2f235b3cd0157c952f4ab811e63b50eb776b8b14636e9971b175769f78547b8"
+    }
+  },
+  "render_source_sha256": {
+    "piloto/src/Composition.tsx": "af88ea589fdac730d64922e05045af599f70ef4c0e93e85b0f46215f4bb72da0",
+    "piloto/src/Root.tsx": "1e6247096189507156603d8dfd91c5ee5823e3f2ba9b98b8554626edb8d57096",
+    "piloto/src/art/Camera.tsx": "63ec52e6604a393ad8a621af1c1a53ae78e9153a9b38a599dd517c876a8cccc0",
+    "piloto/src/art/Lio.tsx": "94ae137c189ad1fe47f53ff000607f3106234adac69a0ae08a07e88f820cd69d",
+    "piloto/src/art/World.tsx": "3dedaeb0c03c19fa69dfa216fdca9e2183b45f8ff63c51f4fb50c6bca1a37d8e",
+    "piloto/src/art/style.ts": "b7d4cf4cccbfc7d0844d737e2a08edf48b4db96edb43a25bb461a61beb2cc5c8",
+    "piloto/src/index.ts": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74",
+    "piloto/src/scenes/Shots.tsx": "a7254d570c00cc53df3b69d1adaab2b8bb03ac42d838a3cfe01e027042994460",
+    "piloto/src/timing.ts": "f97de69d161fa00fc8f6f07fbebea46701b7d90f6078332a825b7d613a3aaff4",
+    "piloto/package.json": "b0a756eede292ca634390669cdc917d6f37e85acc61ca472319244aa521c9809",
+    "piloto/package-lock.json": "7480b2184765b8dae9b88a215a833888e90f65ca940b95353e124bcdb720e132",
+    "piloto/remotion.config.ts": "af5ce97f98b2c91a7891f2bef4801f7dc700843f010fd81e1566d9eebf6f5ad1",
+    "piloto/scripts/render.mjs": "57c101ca8510986039bd760ec267f055d9d90dfe3c69109b4133a6a319133179",
+    "piloto/scripts/browser.mjs": "ab1535a2b2ddeb5a0e7e11b63879f222afd48632835ec9eb69a6882691e5385e"
+  }
+}

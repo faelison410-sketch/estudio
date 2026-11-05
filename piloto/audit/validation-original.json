@@ -1,0 +1,25 @@
+{
+  "checksPassed": 12,
+  "fullDecode": "passed",
+  "file": "out/PilotoQuadrado15s.mp4",
+  "bytes": 4138727,
+  "sha256": "5f496e030679d4dc4debce41479d6f5b31bb18e5b392847653afeb8a6a937698",
+  "video": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "frames": 450,
+    "duration": 15,
+    "pixelFormat": "yuv420p"
+  },
+  "timing": {
+    "fps": 30,
+    "duration": 450,
+    "squareStart": 174,
+    "squareClosed": 258,
+    "clockCut": 270,
+    "clockStopped": 307,
+    "reaction": 360
+  }
+}

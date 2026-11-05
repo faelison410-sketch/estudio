@@ -1,0 +1,5 @@
+# Local deliverables are downloadable from the workspace, not source assets.
+deliverables/
+
+# Installed third-party agent tooling; provenance is in skills-lock.json.
+/.agents/
